@@ -19,7 +19,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 ### GitHub Analytics 📊
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Astro`Wise0=mustafacagri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?Astro`Wise=mustafacagri&show_icons=true)
 
 <br />
 <br />
