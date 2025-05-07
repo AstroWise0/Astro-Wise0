@@ -19,7 +19,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 ### GitHub Analytics 📊
 
- ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&count_private=true)
+ [![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
