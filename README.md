@@ -13,7 +13,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 ### 🔧 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,c#,django,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cs,c,django,html,css,vscode,ps,npm,nodejs,ai,git,arduino)](https://skillicons.dev)
 
 <br />
 
