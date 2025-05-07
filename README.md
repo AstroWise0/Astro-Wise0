@@ -17,7 +17,6 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 <br />
 <br />
-<br />
 
 
 ### GitHub Analytics 📊
