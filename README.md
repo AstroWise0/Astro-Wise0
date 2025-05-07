@@ -16,7 +16,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 [![My Skills](https://skillicons.dev/icons?i=js,py,cs,c,django,html,css,vscode,ps,npm,nodejs,ai,git,arduino)](https://skillicons.dev)
 <br />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c7etgggchj6mwzf1khta5nj8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c7etgggchj6mwzf1khta5nj8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1c7etgggchj6mwzf1khta5nj8&redirect=true)
 
 
 ### GitHub Analytics 📊
