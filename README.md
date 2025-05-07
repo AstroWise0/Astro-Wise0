@@ -10,13 +10,6 @@
 ## ⏲ What we are doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
-<br />
-
-### 📩 Connect with me:
-
-[<img align="left" height="24" width="24" src="[https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg](https://discord.com/users/1111672215541395526)" />][discord]
-
-<br />
 
 ### 🔧 Languages and Tools:
 
