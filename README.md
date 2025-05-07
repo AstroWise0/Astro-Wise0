@@ -19,7 +19,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 ### GitHub Analytics 📊
 
-  ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?AstroWise0=mustafacagri&hide=contribs,prs)
+  ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?Astro`Wise=mustafacagri&hide=contribs,prs)
 
 <br />
 <br />
