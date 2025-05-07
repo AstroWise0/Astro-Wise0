@@ -21,7 +21,7 @@ I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 
 ### GitHub Analytics 📊
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroWise0)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroWise0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
