@@ -7,6 +7,10 @@
 - 🥅 2025 Goals: To make a beautiful website🌎
 
 
+## ⏲ What we are doing now:
+I create bots and sites via discord📃.
+
+
 ### 🔧 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cs,c,django,html,css,vscode,ps,npm,nodejs,ai,git,arduino)](https://skillicons.dev)
